@@ -2,26 +2,40 @@
 
 **Web application for storing vehicle registration numbers**
 
-  * What the APP does
-  * Prerequisites
-  * Installations
-    * NodeJS
-    * Git
-    * Robomongo
-  * Forking and Cloning the repository
-  * Running the App locally
-  * Usage
+1. What the APP does
+2. Prerequisites
+3. Installations
+  3.1. NodeJS
+  3.2. Git
+  3.3. Robomongo
+4. Forking and Cloning the repository
+5. Running the App locally
+6. Usage
+
+# [WAITER AVAILABLE APP](https://github.com/cale312/registration_number_webApp)
+
+**Web application for storing vehicle registration numbers**
+
+  1. What the APP does
+  2. Prerequisites
+  3. Installations
+    3.1. NodeJS
+    3.2. Git
+    3.3. Robomongo
+  4. Forking and Cloning the repository
+  5. Running the App locally
+  6. Usage
 
 # [SHOE CATALOGUE API](https://github.com/cale312/shoe_catalogue_api)
 
 **API for accessing shoe data from a Mongo Database**
 
-  * What the APP does
-  * Prerequisites
-  * Installations
-    * NodeJS
-    * Git
-    * Robomongo
-  * Forking and Cloning the repository
-  * Running the App locally
-  * For Developers
+  1. What the APP does
+  2. Prerequisites
+  3. Installations
+    3.1. NodeJS
+    3.2. Git
+    3.3. Robomongo
+  4. Forking and Cloning the repository
+  5. Running the App locally
+  6. For Developers
