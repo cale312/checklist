@@ -5,9 +5,9 @@
 1. What the APP does
 2. Prerequisites
 3. Installations
-  3.1. NodeJS
-  3.2. Git
-  3.3. Robomongo
+  * NodeJS
+  * Git
+  * Robomongo
 4. Forking and Cloning the repository
 5. Running the App locally
 6. Usage
@@ -19,9 +19,9 @@
   1. What the APP does
   2. Prerequisites
   3. Installations
-    3.1. NodeJS
-    3.2. Git
-    3.3. Robomongo
+    * NodeJS
+    * Git
+    * Robomongo
   4. Forking and Cloning the repository
   5. Running the App locally
   6. Usage
@@ -33,9 +33,9 @@
   1. What the APP does
   2. Prerequisites
   3. Installations
-    3.1. NodeJS
-    3.2. Git
-    3.3. Robomongo
+    * NodeJS
+    * Git
+    * Robomongo
   4. Forking and Cloning the repository
   5. Running the App locally
   6. For Developers
