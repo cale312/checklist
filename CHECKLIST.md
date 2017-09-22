@@ -1,6 +1,6 @@
 # [REGISTRATION NUMBERS](https://github.com/cale312/registration_number_webApp)
 
-Web application for storing vehicle registration numbers
+## Web application for storing vehicle registration numbers
 
   * What the APP does
   * Prerequisites
@@ -14,7 +14,7 @@ Web application for storing vehicle registration numbers
 
 # [SHOE CATALOGUE API](https://github.com/cale312/shoe_catalogue_api)
 
-API for accessing shoe data from a Mongo Database
+## API for accessing shoe data from a Mongo Database
 
   * What the APP does
   * Prerequisites
